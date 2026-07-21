@@ -1,65 +1,163 @@
-# CV_Vladimir_Kovalev
-Vladimir Kovalev
-Ramat Gan, Israel
-053 953-0405 | vkovalev.inbox@gmail.com
-Linkedin.com/in/rngfinder | Github.com/rngfinder
-SUMMARY
-Network Engineer with Cisco CCNA and Fortinet certifications specializing in L2/L3 routing & switching, network 
-infrastructure, and security. Hands-on experience designing and validating enterprise and data center network 
-solutions using Cisco IOS, Arista EOS, FortiGate, Linux, Proxmox, Cisco CML, and Containerlab. Transitioned 
-from industrial automation and enterprise IT deployments, bringing extensive engineering, project delivery, 
-and troubleshooting experience. 
-Seeking a Network Engineer position in enterprise, ISP, or data center environments.
-TECHNICAL SKILLS
-− Routing & Switching: IPv4/IPv6, subnetting, OSPF, BGP, VLAN, EVPN/VxLAN, Multicast, STP/RSTP,
-HSRP/VRRP, LACP, ACLs, route-maps, prefix-lists, NAT, NTP, Syslog, SNMP
-− Monitoring & Troubleshooting: Wireshark
-− Network Security: FortiGate firewall configuration, NAT, security policies, VPN
-− Platforms & Tools: Cisco IOS, Arista EOS, Linux, VMware, Proxmox VE, GNS3, Cisco CML,
-− Architectures: LAN/WAN, Data Center, Office Networks, Disaster Recovery Design
-− Automation: Python and Ansible fundamentals, GitHub, Containerlab automation
-TECHNICAL PROJECTS:
-− Disaster Recovery Network Design:
-− Designed and documented a fully redundant L2/L3 DR topology supporting 10+ servers, including 
-VLAN segmentation, inter-VLAN routing
-− Produced detailed network diagrams, IP addressing plans, test procedures, and configuration guides 
-for engineering teams
-− Corporate Multi-VLAN Office Network Analysis:
-− Analyzed routing paths, DHCP/DNS flows, and device roles in a production multi-VLAN environment. 
-− Identified optimization opportunities and delivered comprehensive documentation with remediation 
-steps
-− Home Lab Infrastructure (Proxmox/Ubuntu/FortiGate/Cisco CML): Designed and deployed a 
-Proxmox-based virtualization platform with secure remote access hosting Ubuntu, Cisco CML and 
-FortiGate VMs for learning, network design, testing and automation
-− Labs: Built and validated 10+ node Cisco CML and Containerlab topologies featuring OSPF, eBGP, 
-iBGP, EVPN/VXLAN, route reflectors, policy-based routing, redundancy and convergence testing
-− Lab CLI deployment automation: Developed a Bash automation utility that automatically launches 
-CLI sessions for Cisco CML lab nodes in Linux, reducing manual setup time for multi-device 
-topologies ( https://github.com/rngfinder/breakout_tool_auto.git )
-PROFESSIONAL EXPERIENCE
-Network Engineer — Terra-IL (Helper-Tech) , IT Integrator
-Freelance, Israel | 2024 – Present 
-− Designed network topologies and architectures for Disaster Recovery and office infrastructures. 
-− Coordinated requirements for gathering, design reviews, and deployment planning with crossfunctional engineering teams. 
-− Created configuration guides, rack elevation plans, and detailed troubleshooting procedures. 
-Regional Engineer — ERHARDT+LEIMER GmbH, Industrial Automation
-2006 – 2023
-− Deployed automation and control systems across multiple industrial sites in several countries.
-− Led technical rollouts, system integrations, diagnostics, and on-site customer training.
-− Managed regional engineering projects from planning through successful handover.
-System admin, network engineer, IT Projects Department — LLC “LEGION GROUP” , IT Integrator
-1994 – 2006
-− Delivered end-to-end IT infrastructure projects for government and enterprise clients.
-− Designed, implemented, and supported multi-site routing and switching environments.
-− Led a technical team responsible for project execution and client support.
-EDUCATION
-Peter the Great St. Petersburg Polytechnic University
-− M.Sc. Automation & Control in Technical Systems
-CERTIFICATIONS
-− Cisco CCNA 200-301
-− Fortinet FCA & NSE 3
-− Python Essentials (Cisco Network Academy)
-− Linux Essentials (Cisco Network Academy)
-− Practical Wireshark (Chris Greer’s course)
-LANGUAGES
-− English (Fluent) | Hebrew (Intermediate) | Russian (Native)
+# Vladimir Kovalev
+
+📍 Ramat Gan, Israel  
+📧 vkovalev.inbox@gmail.com  
+📱 +972 53-953-0405  
+
+- 🔗 LinkedIn: https://linkedin.com/in/rngfinder
+- 💻 GitHub: https://github.com/rngfinder
+
+---
+
+# About Me
+
+Network Engineer with Cisco CCNA and Fortinet certifications specializing in Layer 2/Layer 3 networking, enterprise infrastructure, and network security.
+
+I have hands-on experience designing, building, and validating enterprise and data center networking solutions using Cisco IOS, Arista EOS, FortiGate, Linux, Proxmox, Cisco Modeling Labs (CML), and Containerlab.
+
+After many years in industrial automation and enterprise IT infrastructure, I transitioned into modern networking, bringing extensive engineering, troubleshooting, project delivery, and documentation experience.
+
+**Currently seeking a Network Engineer position in Enterprise, ISP, or Data Center environments.**
+
+---
+
+# Technical Skills
+
+## Routing & Switching
+
+- IPv4 / IPv6
+- Subnetting
+- OSPF
+- eBGP / iBGP
+- EVPN / VXLAN
+- VLAN
+- STP / RSTP
+- HSRP / VRRP
+- LACP
+- ACLs
+- Route Maps
+- Prefix Lists
+- NAT
+- Multicast
+- NTP
+- Syslog
+- SNMP
+
+## Network Security
+
+- FortiGate Firewall
+- Security Policies
+- NAT
+- VPN
+
+## Platforms & Tools
+
+- Cisco IOS
+- Arista EOS
+- Linux
+- Proxmox VE
+- VMware
+- Cisco Modeling Labs (CML)
+- Containerlab
+- GNS3
+
+## Monitoring & Troubleshooting
+
+- Wireshark
+- Packet Analysis
+- Network Diagnostics
+
+## Automation
+
+- Python Fundamentals
+- Ansible Fundamentals
+- Bash
+- Git & GitHub
+- Containerlab Automation
+
+## Network Architectures
+
+- Enterprise LAN/WAN
+- Data Center Networks
+- Office Networks
+- Disaster Recovery Design
+
+---
+
+# Technical Projects
+
+## Disaster Recovery Network Design
+
+- Designed a fully redundant Layer 2/Layer 3 Disaster Recovery topology
+- Supported 10+ servers
+- Implemented VLAN segmentation and Inter-VLAN routing
+- Produced:
+  - Network diagrams
+  - IP addressing plans
+  - Test procedures
+  - Configuration guides
+
+---
+
+## Corporate Multi-VLAN Office Network Analysis
+
+- Analyzed production office infrastructure
+- Verified routing paths
+- Examined DHCP and DNS workflows
+- Identified optimization opportunities
+- Delivered remediation recommendations and documentation
+
+---
+
+## Home Lab Infrastructure
+
+Built a complete virtualization platform using:
+
+- Proxmox VE
+- Ubuntu Linux
+- Cisco CML
+- FortiGate VM
+
+Used for:
+
+- Network design
+- Testing
+- Automation
+- Security validation
+- Remote access
+
+---
+
+## Enterprise & Data Center Labs
+
+Designed and validated large networking labs using Cisco CML and Containerlab featuring:
+
+- OSPF
+- eBGP
+- iBGP
+- EVPN/VXLAN
+- Route Reflectors
+- Policy-Based Routing
+- High Availability
+- Network Convergence Testing
+
+---
+
+## Cisco CML CLI Deployment Automation
+
+Developed a Bash utility that automatically opens CLI sessions for Cisco CML nodes under Linux, eliminating repetitive manual terminal setup for large labs.
+
+Repository:
+
+https://github.com/rngfinder/breakout_tool_auto
+
+---
+
+# Professional Experience
+
+## Network Engineer
+**Terra-IL (Helper-Tech)**  
+*Freelance | Israel | 2024 – Present*
+
+- Designed Disaster Recovery and enterprise office network architectures
+- Planned network deployments
