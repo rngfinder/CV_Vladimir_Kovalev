@@ -1,7 +1,7 @@
 # Vladimir Kovalev
 
 📍 Ramat Gan, Israel  
-📞 +972 53-953-0405  
+📞 +972 (53) 953-0405  
 📧 vkovalev.inbox@gmail.com  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/rngfinder
