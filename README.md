@@ -1,40 +1,37 @@
 # Vladimir Kovalev
 
 📍 Ramat Gan, Israel  
-📞 +972 (53) 953-0405  
 📧 vkovalev.inbox@gmail.com  
-
-- 💼 LinkedIn: https://www.linkedin.com/in/rngfinder
-- 💻 GitHub: https://github.com/rngfinder
-
----
-
-# Network Engineer
-
-Network Engineer with **Cisco CCNA** and **Fortinet** certifications specializing in **L2/L3 routing & switching, network infrastructure, and network security**.
-
-Hands-on experience designing and validating **enterprise** and **data center** network solutions using **Cisco IOS, Arista EOS, FortiGate, Linux, Proxmox, Cisco CML, and Containerlab**.
-
-Transitioned from industrial automation and enterprise IT deployments, bringing extensive engineering, project delivery, and troubleshooting experience.
-
-Currently seeking a **Network Engineer** position in **Enterprise, ISP, or Data Center** environments.
+💼 LinkedIn: https://www.linkedin.com/in/rngfinder  
+🐙 GitHub: https://github.com/rngfinder
 
 ---
 
-# Technical Skills
+## About Me
 
-## Routing & Switching
+Network Engineer with Cisco CCNA and Fortinet certifications specializing in enterprise and data center networking.
 
+I have hands-on experience designing, building, and validating L2/L3 network solutions using Cisco IOS, Arista EOS, FortiGate, Linux, Proxmox, Cisco Modeling Labs (CML), and Containerlab.
+
+Before transitioning into networking, I spent nearly 30 years delivering industrial automation and enterprise IT projects. That background gave me strong troubleshooting, documentation, and project engineering skills that I now apply to modern network infrastructure.
+
+I am currently seeking a **Network Engineer** position in **Enterprise, ISP, or Data Center** environments.
+
+---
+
+## Technical Skills
+
+### Routing & Switching
+- TCP/IP
 - IPv4 / IPv6
-- Subnetting
 - OSPF
 - BGP
-- VLAN
 - EVPN/VXLAN
-- Multicast
+- VLAN
 - STP / RSTP
 - HSRP / VRRP
 - LACP
+- Multicast
 - ACLs
 - Route Maps
 - Prefix Lists
@@ -43,20 +40,13 @@ Currently seeking a **Network Engineer** position in **Enterprise, ISP, or Data 
 - Syslog
 - SNMP
 
-## Network Security
-
-- FortiGate
-- Security Policies
+### Security
+- FortiGate Firewalls
 - NAT
-- Site-to-Site VPN
-- Remote Access VPN
+- Security Policies
+- VPN
 
-## Monitoring & Troubleshooting
-
-- Wireshark
-
-## Platforms & Tools
-
+### Platforms
 - Cisco IOS
 - Arista EOS
 - Linux
@@ -66,79 +56,53 @@ Currently seeking a **Network Engineer** position in **Enterprise, ISP, or Data 
 - Containerlab
 - GNS3
 
-## Network Architectures
-
-- Enterprise LAN/WAN
-- Data Center
-- Office Networks
-- Disaster Recovery
-
-## Automation
-
-- Python (Fundamentals)
-- Ansible (Fundamentals)
+### Automation
+- Python
 - Bash
-- Git / GitHub
-- Containerlab Automation
+- Ansible (Basic)
+- Git
+- GitHub
 
 ---
 
-# Technical Projects
+## Featured Projects
 
-## Disaster Recovery Network Design
+### Disaster Recovery Network Design
+Designed a fully redundant enterprise disaster recovery network supporting multiple servers.
 
-Designed and documented a fully redundant Layer 2/Layer 3 Disaster Recovery topology supporting more than 10 servers.
-
-**Highlights**
-
-- VLAN segmentation
+- L2/L3 design
+- VLANs
 - Inter-VLAN routing
-- Redundant architecture
-- IP addressing plan
 - Network diagrams
-- Configuration guides
-- Validation and testing procedures
+- IP addressing plans
+- Test procedures
+- Deployment documentation
 
 ---
 
-## Corporate Multi-VLAN Office Network Analysis
+### Home Lab Infrastructure
 
-Analyzed a production multi-VLAN office network.
+Built a virtualization platform based on Proxmox hosting:
 
-**Activities**
-
-- Routing path analysis
-- DHCP and DNS traffic analysis
-- Device role identification
-- Optimization recommendations
-- Complete technical documentation
-
----
-
-## Home Lab Infrastructure
-
-Designed and deployed a virtualization platform using:
-
-- Proxmox VE
 - Ubuntu
-- Cisco CML
-- FortiGate VM
-
-Used for:
-
-- Enterprise networking
-- Data Center labs
-- Security testing
-- Automation
-- EVPN/VXLAN
-- BGP
-- OSPF
+- Cisco Modeling Labs
+- FortiGate
+- Remote access
+- Network automation environment
 
 ---
 
-## Enterprise Networking Labs
+### Cisco CML CLI Automation
 
-Built and validated 10+ node Cisco CML and Containerlab topologies featuring:
+Bash utility that automatically launches CLI sessions for Cisco Modeling Labs nodes, eliminating repetitive manual terminal setup.
+
+🔗 https://github.com/rngfinder/breakout_tool_auto
+
+---
+
+### Enterprise & Data Center Labs
+
+Built numerous Cisco CML and Containerlab topologies featuring:
 
 - OSPF
 - eBGP
@@ -146,79 +110,40 @@ Built and validated 10+ node Cisco CML and Containerlab topologies featuring:
 - EVPN/VXLAN
 - Route Reflectors
 - Policy-Based Routing
+- Spine-Leaf fabrics
 - High Availability
-- Redundancy
 - Convergence testing
 
 ---
 
-## Cisco CML CLI Deployment Automation
+## Professional Experience
 
-Developed a Bash utility that automatically opens CLI sessions for Cisco CML nodes in Linux, significantly reducing manual setup time for large topologies.
+### Network Engineer (Freelance)
+**Terra-IL** • 2024–Present
 
-**Repository**
+- Designed enterprise and disaster recovery network architectures
+- Produced implementation documentation and configuration guides
+- Participated in design reviews and deployment planning
 
-https://github.com/rngfinder/breakout_tool_auto
+### Regional Engineer
+**ERHARDT+LEIMER GmbH** • 2006–2023
 
----
+- Delivered industrial automation systems across multiple countries
+- Led technical deployments and customer training
+- Managed engineering projects from planning to handover
 
-# Professional Experience
+### System Administrator / Network Engineer
+**LEGION GROUP** • 1994–2006
 
-## Network Engineer
-
-**Terra-IL (Helper-Tech)** — IT Integrator
-
-*Freelance • Israel • 2024 – Present*
-
-- Designed Disaster Recovery and office network architectures
-- Created network topologies
-- Participated in requirements gathering
-- Conducted design reviews
-- Produced configuration guides
-- Created rack elevation plans
-- Developed troubleshooting documentation
+- Designed and deployed enterprise IT infrastructure
+- Implemented routing and switching solutions
+- Led technical implementation teams
 
 ---
 
-## Regional Engineer
+## Certifications
 
-**ERHARDT+LEIMER GmbH**
-
-*2006 – 2023*
-
-- Deployed industrial automation systems
-- Led technical rollouts
-- Performed diagnostics and troubleshooting
-- Conducted customer training
-- Managed regional engineering projects
-
----
-
-## System Administrator / Network Engineer
-
-**LEGION GROUP** — IT Integrator
-
-*1994 – 2006*
-
-- Delivered enterprise IT infrastructure projects
-- Designed routing and switching solutions
-- Supported multi-site environments
-- Led engineering teams
-- Provided technical support
-
----
-
-# Education
-
-## Peter the Great St. Petersburg Polytechnic University
-
-**M.Sc. Automation & Control in Technical Systems**
-
----
-
-# Certifications
-
-- Cisco CCNA 200-301
+- Cisco CCNA (200-301)
 - Fortinet FCA
 - Fortinet NSE 3
 - Python Essentials (Cisco Networking Academy)
@@ -227,7 +152,7 @@ https://github.com/rngfinder/breakout_tool_auto
 
 ---
 
-# Languages
+## Languages
 
 - 🇬🇧 English — Fluent
 - 🇮🇱 Hebrew — Intermediate
