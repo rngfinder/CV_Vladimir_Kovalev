@@ -13,7 +13,7 @@ Network Engineer with Cisco CCNA and Fortinet certifications specializing in ent
 
 I have hands-on experience designing, building, and validating L2/L3 network solutions using Cisco IOS, Arista EOS, FortiGate, Linux, Proxmox, Cisco Modeling Labs (CML), and Containerlab.
 
-Before transitioning into networking, I spent nearly 30 years delivering industrial automation and enterprise IT projects. That background gave me strong troubleshooting, documentation, and project engineering skills that I now apply to modern network infrastructure.
+Before transitioning into network engineering, I worked in industrial automation and enterprise IT, developing strong troubleshooting, documentation, project delivery, and systems engineering skills that I now apply to modern network infrastructure.
 
 I am currently seeking a **Network Engineer** position in **Enterprise, ISP, or Data Center** environments.
 
